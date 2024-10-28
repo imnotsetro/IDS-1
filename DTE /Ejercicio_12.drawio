@@ -1,9 +1,214 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="PemtAqZYDCLnEE9bBtfT">
-    <mxGraphModel>
+    <mxGraphModel dx="1668" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ft2oxinQVZleJseKyXoN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-1" target="Ft2oxinQVZleJseKyXoN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-13" value="Se presiona el boton&lt;div&gt;&quot;apagar&quot; / Apagar&lt;/div&gt;&lt;div&gt;maquina&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ft2oxinQVZleJseKyXoN-12">
+          <mxGeometry x="0.339" y="2" relative="1" as="geometry">
+            <mxPoint x="32" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-1" value="Esperando eleccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-2" target="Ft2oxinQVZleJseKyXoN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-4" value="Se presiona el boton &quot;Encendido&quot; / Encender&lt;div&gt;maquina&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="65" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-5" value="Lavando" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.055;exitY=0.968;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-1" target="Ft2oxinQVZleJseKyXoN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="372" y="240" />
+              <mxPoint x="150" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-7" value="Se presiona el boton &quot;Lavado&quot; /&lt;div&gt;Ingresar agua, activar motor en modo&lt;/div&gt;&lt;div&gt;latente&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-8" value="Centrifugando" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-9" value="Enjuagando" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="190" y="145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="152.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.941;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-1" target="Ft2oxinQVZleJseKyXoN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="240" />
+              <mxPoint x="650" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-17" value="Se presiona el boton &quot;Centrifugado /&lt;div&gt;Escurrir agua, activar motor en modo&lt;/div&gt;&lt;div&gt;centrifugado&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-1" target="Ft2oxinQVZleJseKyXoN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-19" value="Se presiona el boton &quot;Enjuague&quot; /&lt;div&gt;Ingresa agua, activar motor en modo&lt;/div&gt;&lt;div&gt;latente&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-21" value="Termina el tiempo de&lt;div&gt;lavado / Ingresar agua,&amp;nbsp;&lt;/div&gt;&lt;div&gt;activar motor en modo&lt;/div&gt;&lt;div&gt;latente&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-5" target="Ft2oxinQVZleJseKyXoN-9">
+          <mxGeometry x="-0.0235" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-9" target="Ft2oxinQVZleJseKyXoN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-26" value="Termina el tiempo de&lt;div&gt;enjuagado [Cantidad&lt;/div&gt;&lt;div&gt;de enjuagues&amp;nbsp;&lt;/div&gt;&lt;div&gt;alcanzado]/ Escurrir&amp;nbsp;&lt;/div&gt;&lt;div&gt;agua, activar&amp;nbsp;&lt;/div&gt;&lt;div&gt;motor en modo&lt;/div&gt;&lt;div&gt;centrifugado&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.082;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.808;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-9" target="Ft2oxinQVZleJseKyXoN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="471" y="401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-28" value="Termina el tiempo de enjuagado [Cantidad&lt;div&gt;de enjuagues no alcanzado] / Detener&amp;nbsp;&lt;/div&gt;&lt;div&gt;motor, cambiar agua y activar&lt;/div&gt;&lt;div&gt;motor en modo latente&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-29" value="Detenido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-8" target="Ft2oxinQVZleJseKyXoN-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="380" as="sourcePoint" />
+            <mxPoint x="530" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-31" value="Se detecta la puerta&lt;div&gt;abierta / Detener motor&lt;/div&gt;&lt;div&gt;y emite pitido&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-29" target="Ft2oxinQVZleJseKyXoN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="380" as="sourcePoint" />
+            <mxPoint x="530" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-33" value="Se cierra&amp;nbsp;&lt;div&gt;la puerta&lt;div&gt;&lt;div&gt;/ Se vuelve&lt;/div&gt;&lt;div&gt;a encender&lt;/div&gt;&lt;div&gt;el motor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-8" target="Ft2oxinQVZleJseKyXoN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="600" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-37" value="Se termina el ciclo de centrifugado / Emitir pitido de&lt;div&gt;fin de ciclo, espera seleccion&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ft2oxinQVZleJseKyXoN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="475" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="482.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="450" as="sourcePoint" />
+            <mxPoint x="100" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-38" value="Se presiona el boton&lt;div&gt;&quot;apagar&quot; / Apagar motor y&lt;/div&gt;&lt;div&gt;detener operacion&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100.00333333333326" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="552.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.859;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="405" as="sourcePoint" />
+            <mxPoint x="295" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="400" />
+              <mxPoint x="295" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-45" value="Se presiona el boton&lt;div&gt;&quot;apagar&quot; / Apagar motor y&lt;/div&gt;&lt;div&gt;detener operacion&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="295.0033333333333" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="700" y="655" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="662.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="540" as="sourcePoint" />
+            <mxPoint x="715" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-49" value="Se presiona el boton&lt;div&gt;&quot;apagar&quot; / Apagar motor y&lt;/div&gt;&lt;div&gt;detener operacion&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="715.0033333333332" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="577.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="585" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ft2oxinQVZleJseKyXoN-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="462.5" as="sourcePoint" />
+            <mxPoint x="565" y="572.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2oxinQVZleJseKyXoN-53" value="Se presiona el boton&lt;div&gt;&quot;apagar&quot; / Apagar motor y&lt;/div&gt;&lt;div&gt;detener operacion&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="565.0033333333333" y="542.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
