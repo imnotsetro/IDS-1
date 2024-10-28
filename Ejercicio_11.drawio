@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="pmsz80IC_5KmXOVU3h2e">
+    <mxGraphModel dx="810" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DAn4tNi36NkitERvYOWs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DAn4tNi36NkitERvYOWs-1" target="DAn4tNi36NkitERvYOWs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-1" value="Calentando" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DAn4tNi36NkitERvYOWs-2" target="DAn4tNi36NkitERvYOWs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-4" value="Se presiona el boton &quot;Encender/Apagar&quot; [Con la maquila apagada] /&lt;div style=&quot;font-size: 10px;&quot;&gt;Se comienza a calentar el agua de la maquina&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="65" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DAn4tNi36NkitERvYOWs-1" target="DAn4tNi36NkitERvYOWs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="110" as="sourcePoint" />
+            <mxPoint x="435" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="185" />
+              <mxPoint x="340" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-6" value="Se presiona el boton de &quot;cafe&quot; o &quot;capuchino&quot; /&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-8" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="535" y="165" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DAn4tNi36NkitERvYOWs-11" value="Se presiona el boton &quot;Encender/Apagar&quot; /&lt;div style=&quot;font-size: 9px;&quot;&gt;La maquina se apagara&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="190" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
