@@ -1,0 +1,22 @@
+a) Describa qué tipos de problemas se pueden modelar utilizando Redes de Petri.
+
+RT: Se puede modelar sistemas dinamicos y concurrentes, es recomendable usarlo cuando se quiere ver al sistema
+actuar a lo largo del tiempo y en etapas a partir del uso de tokens y sitios que permite el control de los estados
+
+b) Enumere y explique elementos, vistos en teoría, que se utilizan para modelar las Redes de Petri.
+
+RT: Se utilizan los sitios (que modelan un estado o condicion), transiciones (modela  un evento o una accion), arco (relaciona un sitio con una transicion o una
+transicion con un sitio, es unidireccional, la direccion se indica con una flecha) y los tokens (que permiten habilitar y desahibilitar trainsiciones para controlar
+la ejecucion de la red).
+
+c) Explique que son las marcas o tokens.
+
+RT: Los tokens o marcas se colocan en los sitios, puede haber mas de uno por sitio y permite el control de las transiciones.
+
+d) Explique qué significa una transición que tiene salidas pero no entradas.
+
+RT: Es una transicion de inicio y indica que se pude generar una cantidad ilimitada de tokens (transicion fuerte).
+
+e) Explique qué significa una transición que tiene entradas pero no salida.
+
+RT: Es una transicion de fin, permite eliminar tokens al llegar a esa transicion.
