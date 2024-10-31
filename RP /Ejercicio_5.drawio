@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="r8TKa3XLGJk-vKBdgZHs">
-    <mxGraphModel dx="1687" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,13 +164,14 @@
         <mxCell id="4wrPPPq2GfeD3YFhDTNc-82" value="Votante se retira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="681" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4wrPPPq2GfeD3YFhDTNc-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4wrPPPq2GfeD3YFhDTNc-57">
+        <mxCell id="4wrPPPq2GfeD3YFhDTNc-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="4wrPPPq2GfeD3YFhDTNc-66" target="4wrPPPq2GfeD3YFhDTNc-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1260" y="610" as="sourcePoint" />
             <mxPoint x="1310" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1290" y="610" />
-              <mxPoint x="1290" y="490" />
+              <mxPoint x="1030" y="600" />
+              <mxPoint x="1030" y="540" />
+              <mxPoint x="1030" y="487" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,16 +191,17 @@
         <mxCell id="4wrPPPq2GfeD3YFhDTNc-111" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#050505;" vertex="1" parent="1">
           <mxGeometry x="836.25" y="113.75" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="4wrPPPq2GfeD3YFhDTNc-112" value="Mesa 2 libre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4wrPPPq2GfeD3YFhDTNc-112" value="Mesa 1 libre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="805" y="50" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4wrPPPq2GfeD3YFhDTNc-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4wrPPPq2GfeD3YFhDTNc-110">
+        <mxCell id="4wrPPPq2GfeD3YFhDTNc-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" target="4wrPPPq2GfeD3YFhDTNc-110" source="4wrPPPq2GfeD3YFhDTNc-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="250" as="sourcePoint" />
             <mxPoint x="1300" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1280" y="250" />
-              <mxPoint x="1280" y="130" />
+              <mxPoint x="1030" y="236" />
+              <mxPoint x="1030" y="190" />
+              <mxPoint x="1030" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
