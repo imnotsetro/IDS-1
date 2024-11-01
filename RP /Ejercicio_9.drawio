@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="ZLIr2dGa3FI1vkI3QF5f">
-    <mxGraphModel dx="2390" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,9 +325,6 @@
         </mxCell>
         <mxCell id="7lzFp0Yg2v_CefDAZ_hL-125" value="&lt;div&gt;Inicio de&lt;/div&gt;&lt;div&gt;armado&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1420" y="520" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7lzFp0Yg2v_CefDAZ_hL-126" value="&lt;div&gt;Esperando para&lt;/div&gt;&lt;div&gt;armado&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="740" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7lzFp0Yg2v_CefDAZ_hL-127" value="&lt;div&gt;Fin de&lt;/div&gt;&lt;div&gt;analisis&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1035" y="740" width="70" height="40" as="geometry" />
