@@ -1,1 +1,12 @@
+La solucion correcta seria la propuesta 2.
+Esto es debido a errores marcados en la propuesta 1 y 3.
+1) En la propuesta 1 el error se encuentra en como se limita el ingreso de los 8 vehiculos en la zona comun, en esta solucion permite de que vehiculos sigan
+    entrando a las cabinas de atencion aunque se haya llegado al limite de 8 vehiculos ya atendidos, por lo que quedarian 3 vehiculos bloqueandos dentro de las cabinas
+    de atencion lo que no pide el enunciado.
+3) En la propuesta 3 el error se encuentra al comienzo, creando un estado donde todos los autos hacen fila y son redireccionados a alguna de las 3 cabinas.
+    Esto es un error, debido a que en el enunciado dice que los autos llegan por 3 diferentes entradas y esperan en una fila por cada cabina y no en una
+    fila comun como ofrece la solucion 3.
 
+La solucion 2 arregla estos problemas, dando una fila individual por cabina y ademas limitando la entrada a las cabinas al llegar al limite de 8 vehiculos,
+permitiendo que los vehiculos que ya entren dentro de la zona comun puedan hacer los test, desocupando la zona de espera de evaluacion y dejando a las
+cabinas en estado de espera como pide el enunciado.
