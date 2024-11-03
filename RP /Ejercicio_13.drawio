@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="-3_jxUGUwHKmg8dipgZw">
-    <mxGraphModel dx="2049" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,8 +74,8 @@
         <mxCell id="EZA7JJlqUse9rsc94KX0-17" value="&lt;div&gt;Inspeccionando arbol&lt;/div&gt;&lt;div&gt;por puerta 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="310" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZA7JJlqUse9rsc94KX0-18" value="&lt;div&gt;Arbol es&lt;/div&gt;&lt;div&gt;inspeccionado&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="310" width="100" height="40" as="geometry" />
+        <mxCell id="EZA7JJlqUse9rsc94KX0-18" value="&lt;div&gt;Finaliza inspeccion&lt;/div&gt;&lt;div&gt;en puerta 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="310" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZA7JJlqUse9rsc94KX0-19" value="Inspector 1 disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="90" width="150" height="30" as="geometry" />
@@ -150,8 +150,8 @@
         <mxCell id="EZA7JJlqUse9rsc94KX0-36" value="&lt;div&gt;Inspeccionando arbol&lt;/div&gt;&lt;div&gt;por puerta 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="650" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZA7JJlqUse9rsc94KX0-37" value="&lt;div&gt;Arbol es&lt;/div&gt;&lt;div&gt;inspeccionado&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="650" width="100" height="40" as="geometry" />
+        <mxCell id="EZA7JJlqUse9rsc94KX0-37" value="&lt;div&gt;Finaliza inspeccion&lt;/div&gt;&lt;div&gt;en puerta 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="650" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZA7JJlqUse9rsc94KX0-38" value="Inspector 2 disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="430" width="150" height="30" as="geometry" />
@@ -307,8 +307,8 @@
         <mxCell id="EZA7JJlqUse9rsc94KX0-79" value="&lt;div&gt;Cepillando tablon en&lt;/div&gt;&lt;div&gt;sector 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1727.5" y="280" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZA7JJlqUse9rsc94KX0-80" value="&lt;div&gt;Tablon cepillado es&lt;/div&gt;&lt;div&gt;enviado a empaque&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1857.5" y="280" width="130" height="40" as="geometry" />
+        <mxCell id="EZA7JJlqUse9rsc94KX0-80" value="&lt;div&gt;Finaliza cepillado&lt;/div&gt;&lt;div&gt;en sector 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1862.5" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZA7JJlqUse9rsc94KX0-81" value="Cepillado 1 disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1722.5" y="60" width="150" height="30" as="geometry" />
@@ -362,8 +362,8 @@
         <mxCell id="EZA7JJlqUse9rsc94KX0-99" value="Deposito de tablones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="270" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EZA7JJlqUse9rsc94KX0-100" value="&lt;div&gt;Tablon cepillado es&lt;/div&gt;&lt;div&gt;enviado a empaque&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="580" width="130" height="40" as="geometry" />
+        <mxCell id="EZA7JJlqUse9rsc94KX0-100" value="&lt;div&gt;Finaliza cepillado&lt;/div&gt;&lt;div&gt;en sector 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1875" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZA7JJlqUse9rsc94KX0-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZA7JJlqUse9rsc94KX0-101" target="EZA7JJlqUse9rsc94KX0-105">
           <mxGeometry relative="1" as="geometry" />
