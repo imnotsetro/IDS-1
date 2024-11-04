@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="5eVMI1ttRYgfSZPBgMfe">
-    <mxGraphModel dx="1687" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="KEs7gtYN-4KAZwmuKGye-5" value="Recorriendo tramo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KEs7gtYN-4KAZwmuKGye-7" value="&lt;div&gt;Se recibe el mensaje&lt;/div&gt;&lt;div&gt;de confirmacion de carga /&lt;/div&gt;&lt;div&gt;Recorrer tramo&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KEs7gtYN-4KAZwmuKGye-7" value="&lt;div&gt;Se recibe el mensaje&lt;/div&gt;&lt;div&gt;de confirmacion de carga /&lt;/div&gt;&lt;div&gt;Activar motores&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="705" y="360" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KEs7gtYN-4KAZwmuKGye-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KEs7gtYN-4KAZwmuKGye-8" target="KEs7gtYN-4KAZwmuKGye-5">
@@ -97,7 +97,7 @@
           <mxGeometry x="690" y="600" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KEs7gtYN-4KAZwmuKGye-38" value="&lt;div&gt;Se llega al destino / Detener y enviar&lt;/div&gt;&lt;div&gt;mensaje para retiro de carga&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="590" width="200" height="40" as="geometry" />
+          <mxGeometry x="700" y="560" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
