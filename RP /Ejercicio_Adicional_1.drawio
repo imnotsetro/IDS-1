@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="QIeu3MbxbPxealTcZrC9">
-    <mxGraphModel dx="1247" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1143" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,13 +128,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-41" target="9XWHqQ000PLASVVAu-tf-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1250" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1200" y="687.5" width="80" height="80" as="geometry" />
         </mxCell>
@@ -161,6 +154,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-48" target="9XWHqQ000PLASVVAu-tf-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-48" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1640" y="220" width="10" height="80" as="geometry" />
         </mxCell>
@@ -172,14 +168,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1515" y="145" width="25" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="130" width="25" height="25" as="geometry" />
+          <mxGeometry x="1527.41" y="137.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-55" target="9XWHqQ000PLASVVAu-tf-58">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="580" />
+              <mxPoint x="1470" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1420" y="540" width="10" height="80" as="geometry" />
@@ -188,7 +186,12 @@
           <mxGeometry x="1500" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-58" target="9XWHqQ000PLASVVAu-tf-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="580" />
+              <mxPoint x="1610" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1500" y="540" width="80" height="80" as="geometry" />
@@ -200,6 +203,9 @@
               <mxPoint x="1680" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-60" target="9XWHqQ000PLASVVAu-tf-197">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1640" y="540" width="10" height="80" as="geometry" />
@@ -215,29 +221,14 @@
         <mxCell id="9XWHqQ000PLASVVAu-tf-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1527.5" y="457.5" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430" y="590" as="sourcePoint" />
-            <mxPoint x="1500" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-68" target="9XWHqQ000PLASVVAu-tf-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="315" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1580" y="590" as="sourcePoint" />
-            <mxPoint x="1640" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=-0.009;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-48" target="9XWHqQ000PLASVVAu-tf-68">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2245" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="315" width="10" height="80" as="geometry" />
+          <mxGeometry x="2395" y="380" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-75" target="9XWHqQ000PLASVVAu-tf-109">
           <mxGeometry relative="1" as="geometry" />
@@ -365,24 +356,6 @@
         <mxCell id="9XWHqQ000PLASVVAu-tf-104" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1527.41" y="1417.5" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-60" target="9XWHqQ000PLASVVAu-tf-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1770" y="590" />
-              <mxPoint x="1770" y="383" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1830" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1740" y="580" />
-              <mxPoint x="1740" y="360" />
-              <mxPoint x="1830" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-109" target="9XWHqQ000PLASVVAu-tf-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -417,7 +390,7 @@
           <mxGeometry x="1730" y="1230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-120" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="1230" width="10" height="80" as="geometry" />
+          <mxGeometry x="1930" y="1230" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-122" value="&lt;div&gt;Vehiculo ingresa&lt;/div&gt;&lt;div&gt;por arteria 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="580" width="110" height="40" as="geometry" />
@@ -431,8 +404,8 @@
         <mxCell id="9XWHqQ000PLASVVAu-tf-125" value="&lt;div&gt;Ingresando&lt;/div&gt;&lt;div&gt;a rotonda&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="855" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-126" value="&lt;div&gt;Vehiculos en&lt;/div&gt;&lt;div&gt;rotonda&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="855" width="90" height="40" as="geometry" />
+        <mxCell id="9XWHqQ000PLASVVAu-tf-126" value="&lt;div&gt;Circulando en&lt;/div&gt;&lt;div&gt;rotonda&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="855" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XWHqQ000PLASVVAu-tf-127" value="&lt;div&gt;Salida de&lt;/div&gt;&lt;div&gt;rotonda&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="815" y="855" width="80" height="40" as="geometry" />
@@ -449,14 +422,165 @@
         <mxCell id="9XWHqQ000PLASVVAu-tf-131" value="&lt;div&gt;Vehiculos en espera&lt;/div&gt;&lt;div&gt;de control&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="705" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-132" value="&lt;div&gt;Par ingresa a&lt;/div&gt;&lt;div&gt;control 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9XWHqQ000PLASVVAu-tf-136" value="&lt;div&gt;Auto ingresa a&lt;/div&gt;&lt;div&gt;control 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1374.91" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-137" value="&lt;div&gt;Auto sale de&lt;/div&gt;&lt;div&gt;control 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-138" value="&lt;div&gt;Controlando&lt;/div&gt;&lt;div&gt;vehiculo&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1494.91" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-139" value="Oficial de control 1 disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1444.91" y="80" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-140" value="&lt;div&gt;Autos volviendo a&lt;/div&gt;&lt;div&gt;camino a costa por ruta 11&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="340" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-141" value="&lt;div&gt;Auto retoma el camino&lt;/div&gt;&lt;div&gt;a la costa por ruta 11&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="465" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-143" value="&lt;div&gt;Ingresa a peaje&lt;/div&gt;&lt;div&gt;por cabina 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1369.91" y="1040" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-144" value="&lt;div&gt;Sale de peaje&lt;/div&gt;&lt;div&gt;por cabina 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-145" value="&lt;div&gt;Pagando peaje en&lt;/div&gt;&lt;div&gt;cabina 1&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1479.91" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-146" value="Emplado disponible en cabina 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1439.91" y="820" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-151" value="Ingreso a ruta 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-152" value="&lt;div&gt;Vehiculos en espera&lt;/div&gt;&lt;div&gt;de peaje&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-153" value="&lt;div&gt;Ingresa a peaje&lt;/div&gt;&lt;div&gt;por cabina 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1369.91" y="1310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-154" value="&lt;div&gt;Sale de peaje&lt;/div&gt;&lt;div&gt;por cabina 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-155" value="&lt;div&gt;Pagando peaje en&lt;/div&gt;&lt;div&gt;cabina 2&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1479.91" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-156" value="Emplado disponible en cabina 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1439.91" y="1090" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-157" value="&lt;div&gt;Ingresa a peaje&lt;/div&gt;&lt;div&gt;por cabina 3&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1374.8600000000001" y="1580" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-158" value="&lt;div&gt;Sale de peaje&lt;/div&gt;&lt;div&gt;por cabina 3&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1604.95" y="1580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-159" value="&lt;div&gt;Pagando peaje en&lt;/div&gt;&lt;div&gt;cabina 3&lt;br&gt; &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1484.8600000000001" y="1580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-160" value="Emplado disponible en cabina 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1444.8600000000001" y="1360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-161" value="&lt;div&gt;Autos volviendo a&lt;/div&gt;&lt;div&gt;camino a costa por ruta 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-162" value="&lt;div&gt;Auto retoma el camino&lt;/div&gt;&lt;div&gt;a la costa por ruta 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-179" target="9XWHqQ000PLASVVAu-tf-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-179" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1915.09" y="380" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-180" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1995.09" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-182" target="9XWHqQ000PLASVVAu-tf-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-182" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1995.09" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-184" target="9XWHqQ000PLASVVAu-tf-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2175.09" y="390" />
+              <mxPoint x="2175.09" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-184" target="9XWHqQ000PLASVVAu-tf-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-184" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2135.09" y="380" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-180" target="9XWHqQ000PLASVVAu-tf-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1895.09" y="310" />
+              <mxPoint x="1895.09" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-186" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2022.59" y="297.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1925.09" y="430" as="sourcePoint" />
+            <mxPoint x="1995.09" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2075.09" y="430" as="sourcePoint" />
+            <mxPoint x="2135.09" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-189" value="&lt;div&gt;Par ingresa a&lt;/div&gt;&lt;div&gt;control doble&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-190" value="&lt;div&gt;Par sale de&lt;/div&gt;&lt;div&gt;control doble&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2100.09" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-191" value="&lt;div&gt;Controlando vehiculos&lt;/div&gt;&lt;div&gt;en control doble&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="460" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-192" value="Oficial de control doble disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="240" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-193" value="&lt;div&gt;Auto ingresa a&lt;/div&gt;&lt;div&gt;control 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1374.91" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-133" value="&lt;div&gt;Par sale de&lt;/div&gt;&lt;div&gt;control 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9XWHqQ000PLASVVAu-tf-194" value="&lt;div&gt;Auto sale de&lt;/div&gt;&lt;div&gt;control 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1605" y="620" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9XWHqQ000PLASVVAu-tf-134" value="Controlando vehiculos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1464.91" y="625" width="150" height="30" as="geometry" />
+        <mxCell id="9XWHqQ000PLASVVAu-tf-195" value="Controlando vehiculo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1469.91" y="625" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-196" value="Oficial de control 2 disponible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1444.91" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-197" target="9XWHqQ000PLASVVAu-tf-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XWHqQ000PLASVVAu-tf-197">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1909.9999999999995" y="439.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="430" />
+              <mxPoint x="1860" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-197" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="375" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9XWHqQ000PLASVVAu-tf-205" value="&lt;div&gt;Vehiculos&lt;/div&gt;&lt;div&gt;esperando&lt;/div&gt;&lt;div&gt;segundo&lt;/div&gt;&lt;div&gt;control&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="320" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
