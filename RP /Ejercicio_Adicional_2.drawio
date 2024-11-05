@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="l-WnDoxr9QfDb3v4YEsX">
-    <mxGraphModel dx="1024" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,8 +223,17 @@
         <mxCell id="o489fDonKntRBNeTB-6x-107" value="&lt;div&gt;Termina etapa 2 por&lt;/div&gt;&lt;div&gt;lado B&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="839.96" y="660" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o489fDonKntRBNeTB-6x-108" value="&lt;div&gt;Inicia etapa 2 por&lt;/div&gt;&lt;div&gt;lado B&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="749.96" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="o489fDonKntRBNeTB-6x-108" value="&lt;div&gt;Disponibilidad de&lt;/div&gt;&lt;div&gt;lado A&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="754.96" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o489fDonKntRBNeTB-6x-109" value="&lt;div&gt;Disponibilidad de&lt;/div&gt;&lt;div&gt;lado B&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o489fDonKntRBNeTB-6x-110" value="Corriendo en etapa 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="325" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o489fDonKntRBNeTB-6x-111" value="&lt;div&gt;Jugador termina&lt;/div&gt;&lt;div&gt;la carrera&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="315" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
