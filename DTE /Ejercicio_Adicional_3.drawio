@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Page-1" id="P2potIK_R8jiToS4ya2X">
-    <mxGraphModel dx="1434" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="NTHTEWTktar0PXDvURWS-12" value="&lt;div&gt;Se presiona el boton + [Temperatura actual = 100 C] / Emitir pitido de alerta&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="225" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NTHTEWTktar0PXDvURWS-13" value="&lt;div&gt;Se presiona el boton - [Temperatura actual &amp;gt; 20 C] / Disminuir 5&amp;nbsp;&lt;/div&gt;&lt;div&gt;grados la temperatura&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NTHTEWTktar0PXDvURWS-13" value="&lt;div&gt;Se presiona el boton - [Temperatura actual &amp;gt; 20 C] / Disminuir 5&amp;nbsp;&lt;/div&gt;&lt;div&gt;grados la temperatura y actualizar display&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NTHTEWTktar0PXDvURWS-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NTHTEWTktar0PXDvURWS-3">
